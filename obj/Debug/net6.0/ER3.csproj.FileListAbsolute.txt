@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\ER3\bin\Debug\net6.0\ER3.exe
+C:\Users\Pichau\Desktop\ER3\bin\Debug\net6.0\ER3.deps.json
+C:\Users\Pichau\Desktop\ER3\bin\Debug\net6.0\ER3.runtimeconfig.json
+C:\Users\Pichau\Desktop\ER3\bin\Debug\net6.0\ER3.dll
+C:\Users\Pichau\Desktop\ER3\bin\Debug\net6.0\ER3.pdb
+C:\Users\Pichau\Desktop\ER3\obj\Debug\net6.0\ER3.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\ER3\obj\Debug\net6.0\ER3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\ER3\obj\Debug\net6.0\ER3.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\ER3\obj\Debug\net6.0\ER3.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\ER3\obj\Debug\net6.0\ER3.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\ER3\obj\Debug\net6.0\ER3.dll
+C:\Users\Pichau\Desktop\ER3\obj\Debug\net6.0\refint\ER3.dll
+C:\Users\Pichau\Desktop\ER3\obj\Debug\net6.0\ER3.pdb
+C:\Users\Pichau\Desktop\ER3\obj\Debug\net6.0\ER3.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\ER3\obj\Debug\net6.0\ref\ER3.dll
