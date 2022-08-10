@@ -5,12 +5,11 @@ using System.Threading.Tasks;
 
 namespace Sistema
 {
-    public class Pessoa
+    public abstract class Pessoa
     {
         public string? nome { get; set; }
-        public string? Endereco { get; set; }
-        public bool enderecoComercial { get; set; }
-
-        public void PagarImposto(){}
+        public Endereco endereco { get; set; }
+        
+        public abstract void PagarImposto(float rendimento);
     }
 }
