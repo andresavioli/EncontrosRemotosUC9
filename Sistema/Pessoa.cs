@@ -11,5 +11,6 @@ namespace Sistema
         public Endereco endereco { get; set; }
         
         public abstract void PagarImposto(float rendimento);
+
     }
 }
